@@ -13,4 +13,4 @@ Dev-Dependencies :
 npm install
 nodemon server 
 ```
-Url : http://localhost:3000
+Then use this Url : http://localhost:3000
